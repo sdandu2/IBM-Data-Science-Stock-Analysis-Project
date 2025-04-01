@@ -1,5 +1,4 @@
 # IBM-Data-Science-Stock-Analysis-Project
-Sure! Here's a solid and professional GitHub project description you can use or tweak for your **IBM Data Science Stock Analysis Project**:
 
 ---
 
@@ -23,4 +22,3 @@ To simulate real-world stock analysis scenarios by combining financial data from
 
 ---
 
-Let me know if you'd like to tailor it toward job applications, highlight machine learning, or add more storytelling.
